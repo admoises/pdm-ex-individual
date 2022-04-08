@@ -4,6 +4,7 @@ import './styles.css'
 import image1 from './images/medico1.jpg'
 
 const App = () => {
+    //variable [ REACT_APP_nomeDaFoto = "/medico2.jpg" ] in dotenv
     const primeiroCSS = () =>{    
         return ({
             backgroundColor: '#EEE',
